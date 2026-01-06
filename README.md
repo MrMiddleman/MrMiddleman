@@ -1,4 +1,4 @@
-# 👋 Hey there! You may know me as MrMiddleman... but who am I?
+# 👋 Hey! You might know me as MrMiddleman... but who am I?
 
 <p align = "center">
   <img width="140" src="https://komarev.com/ghpvc/?username=MrMiddleman&style=for-the-badge">
