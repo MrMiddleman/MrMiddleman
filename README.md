@@ -9,7 +9,7 @@
 <hr>
 
 <p align="center">
-  <img width="528" height="530" alt="Screenshot 2026-01-06 015406" src="https://github.com/user-attachments/assets/d41c2ba4-8a39-46d8-a4b8-b8e3dcdecd5c"/>
+  <img width="524" height="520" alt="Screenshot 2026-01-06 015406" src="https://github.com/user-attachments/assets/d41c2ba4-8a39-46d8-a4b8-b8e3dcdecd5c"/>
 </p>
 
 <p align="center">
