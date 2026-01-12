@@ -1,6 +1,6 @@
 <hr>
 
-# 👋 Hey! You might know me as MrMiddleman... but who am I?
+# 👋 Hey! You might know me as TheMiddleman... but who am I?
 
 <hr>
 
