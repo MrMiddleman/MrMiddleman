@@ -5,9 +5,9 @@
 <hr>
 
 <p align = "center">
-  <img width="140" src="https://komarev.com/ghpvc/?username=MrMiddleman&style=for-the-badge">
+  <img width="140" src="https://komarev.com/ghpvc/?username=TMiddleman&style=for-the-badge">
   <img width="85" height="185" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" href="mailto:tmiddleman@proton.me">
-  <img src="https://img.shields.io/github/stars/MrMiddleman?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
+  <img src="https://img.shields.io/github/stars/TMiddleman?style=for-the-badge&amp;?affiliations=OWNER%2CCOLLABORATOR">
 </p>
 
 <hr>
@@ -48,8 +48,8 @@
 
 <p align="center">
   <a href="https://github.com/MrMiddleman">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrMiddleman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrMiddleman&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TMiddleman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TMiddleman&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   </p>
 
