@@ -47,7 +47,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/MrMiddleman">
+  <a href="https://github.com/TMiddleman">
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TMiddleman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TMiddleman&layout=compact&langs_count=8&theme=algolia"/>
   </a>
@@ -55,6 +55,6 @@
 
 <hr>
 
-<a href="https://github.com/MrMiddleman">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMiddleman&bg_color=050e14&color=54aeff&line=54aeff&point=f8f8f2&area=true&hide_border=true&font=Iosevka" width="100%" />
+<a href="https://github.com/TMiddleman">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMiddleman&bg_color=050e14&color=54aeff&line=54aeff&point=f8f8f2&area=true&hide_border=true&font=Iosevka" width="100%" />
 </a>
